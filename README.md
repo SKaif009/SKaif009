@@ -109,27 +109,7 @@ Welcome to my digital realm
 - 📝 **Medium Blogger** - Sharing knowledge with the community
 - 🔧 **VAPT Professional** - Real-world penetration testing experience
 
-## 🎯 **CURRENT OBJECTIVES**
-
-```python
-class BlackForgeX:
-    def __init__(self):
-        self.name = "Shah Md Kaif"
-        self.role = "Red Team Operator"
-        self.mission = "Secure the digital world"
-        
-    def current_goals(self):
-        return [
-            "🔥 Advanced Red Team Techniques",
-            "🌐 Cloud Security Penetration", 
-            "🤖 AI-Powered Security Tools",
-            "📡 IoT & Hardware Hacking",
-            "🏢 Corporate Security Assessment"
-        ]
-    
-    def philosophy(self):
-        return "Attack to defend, hack to protect"
-```
+---
 
 ## 🎭 **OPERATIONAL ROLES**
 
