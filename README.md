@@ -33,12 +33,6 @@ Status: "Active | Hunting Bugs | Learning Advanced TTPs"
 Motto: "In a world of zeros and ones, I find the exceptions"
 ```
 
-```bash
-┌──(root㉿BlackForgeX)-[~/profile]
-└─$ whoami && echo "Welcome to my digital realm"
-skaif009
-Welcome to my digital realm
-```
 
 ## 🛡️ **CERTIFICATIONS & CREDENTIALS**
 
